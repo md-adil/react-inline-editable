@@ -1,0 +1,8 @@
+.next
+node_modules
+pages
+*.json
+*.log
+*.lock
+next.config.js
+.babelrc
